@@ -420,12 +420,11 @@ The repository includes generated analysis and model evaluation visuals in the `
 
 Add Streamlit web app screenshots here:
 
-## Screenshot 
-```text
-(Report/Screenshot_1.png)
-(Report/Screenshot_2.png)
-(Report/Screenshot_3.png)
-```
+## Live Website Screenshot
+![Live Website Screenshot 1](Report/Screenshot_1.png)
+![Live Website Screenshot 2](Report/Screenshot_2.png)
+![Live Website Screenshot 3](Report/Screenshot_3.png)
+
 
 ## Future Improvements
 
