@@ -106,7 +106,7 @@ MonthlyCharges, TotalCharges, Churn
 Dataset source:
 
 ```text
-[Add dataset source here]
+[[Dataset_source_url]](https://www.kaggle.com/datasets/palashfendarkar/wa-fnusec-telcocustomerchurn)
 ```
 
 ## Data Preprocessing Steps
@@ -420,10 +420,11 @@ The repository includes generated analysis and model evaluation visuals in the `
 
 Add Streamlit web app screenshots here:
 
+## Screenshot 
 ```text
-[Add home page screenshot here]
-[Add customer input form screenshot here]
-[Add prediction result screenshot here]
+(Report/Screenshot_1.png)
+(Report/Screenshot_2.png)
+(Report/Screenshot_3.png)
 ```
 
 ## Future Improvements
